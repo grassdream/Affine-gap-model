@@ -1,0 +1,5 @@
+>seq1
+accga
+
+>seq2
+agtta

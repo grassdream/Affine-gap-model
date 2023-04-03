@@ -1,0 +1,6 @@
+score = -3
+>seq1
+accg__a
+
+>seq2
+a__gtta

@@ -1,0 +1,6 @@
+score = 17
+>seq1
+AW__G_HEE
+
+>seq2
+AWHEAEHEA

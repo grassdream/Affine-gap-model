@@ -1,0 +1,6 @@
+; This is the example in slide 45
+>seq1
+tgacaat
+
+>seq2
+tgagcat

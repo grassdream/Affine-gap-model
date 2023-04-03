@@ -1,0 +1,7 @@
+score = 10
+
+>seq1
+tga-caat
+
+>seq2
+tgagc-at

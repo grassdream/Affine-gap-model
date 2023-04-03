@@ -1,0 +1,6 @@
+score = 10
+>seq1
+tgacaat
+
+>seq2
+tgagcat
