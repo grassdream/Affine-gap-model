@@ -1,5 +1,5 @@
--2; score for initiating a gap
--2; score for each base insert/delete
+-1; score for initiating a gap
+-1; score for each base insert/delete
 
 ; Below is the set of amino acids
 A R N D C Q E G H I L K M F P S T W Y V
