@@ -1,0 +1,8 @@
+score = 17
+No.1
+>seq1
+AW--G-HEE
+
+>seq2
+AWHEAEHEA
+

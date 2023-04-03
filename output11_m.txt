@@ -1,0 +1,15 @@
+score = 10
+No.1
+>seq1
+tga-caat
+
+>seq2
+tgagc-at
+
+No.2
+>seq1
+tga-caat
+
+>seq2
+tgagca-t
+

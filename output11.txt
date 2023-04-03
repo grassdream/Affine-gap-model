@@ -1,6 +1,6 @@
 score = 10
 >seq1
-tgacaat
+tga_caat
 
 >seq2
-tgagcat
+tgagc_at
